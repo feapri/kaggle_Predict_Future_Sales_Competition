@@ -1,4 +1,4 @@
-# kaggle_Predict_Future_Sales_Competition
+# kaggle Predict Future Sales Competition
 
 
 A forecast using numpy.polyfit for kaggle's  Predict Future Sales Competition
